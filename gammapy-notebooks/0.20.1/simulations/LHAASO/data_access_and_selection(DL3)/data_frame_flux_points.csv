@@ -1,0 +1,8 @@
+source_index,LHAASO_name,LHAASO_txt,source_name,source_txt,catalog,flux_points
+0,LHAASO J1825-1326,LHAASOJ1825-1326,HESS J1825-137,HESSJ1825-137,"['gamma-cat', 'hgps', '3fgl', '4fgl', '2fhl', '3fhl']","['gamma-cat', 'hgps', '3fgl', '4fgl', '2fhl', '3fhl']"
+1,LHAASO J1825-1326,LHAASOJ1825-1326,HESS J1826-130,HESSJ1826-130,"['gamma-cat', 'hgps', '4fgl', '3fhl']","['gamma-cat', 'hgps', '4fgl', '3fhl']"
+2,LHAASO J1908+0621,LHAASOJ1908+0621,MGRO J1908+06,MGROJ1908+06,"['gamma-cat', '3fgl', '4fgl']","['gamma-cat', '3fgl', '4fgl']"
+3,LHAASO J1908+0621,LHAASOJ1908+0621,HESS J1908+063,HESSJ1908+063,"['gamma-cat', 'hgps']","['gamma-cat', 'hgps']"
+4,LHAASO J1908+0621,LHAASOJ1908+0621,ARGO J1907+0627,ARGOJ1907+0627,['gamma-cat'],['gamma-cat']
+5,LHAASO J1908+0621,LHAASOJ1908+0621,VER J1907+062,VERJ1907+062,['gamma-cat'],['gamma-cat']
+6,LHAASO J2226+6057,LHAASOJ2226+6057,Boomerang,Boomerang,"['3fgl', '4fgl']","['3fgl', '4fgl']"
