@@ -1,0 +1,21 @@
+# %ECSV 1.0
+# ---
+# datatype:
+# - {name: e_ref, unit: TeV, datatype: float64}
+# - {name: e2dnde, unit: erg / (cm2 s), datatype: float64}
+# - {name: e2dnde_errp, unit: erg / (cm2 s), datatype: float64}
+# - {name: e2dnde_errn, unit: erg / (cm2 s), datatype: float64}
+# - {name: e_min, unit: TeV, datatype: float64}
+# - {name: e_max, unit: TeV, datatype: float64}
+# meta: !!omap
+# - {SED_TYPE: e2dnde}
+# - {name: J1825}
+# schema: astropy-2.0
+e_ref e2dnde e2dnde_errp e2dnde_errn e_min e_max
+31.6 1.664e-11 5.2640001e-12 5.2640001e-12 6.5 8.19
+50.1 6.9440001e-12 1.4784e-12 1.4784e-12 10.3 13.0
+79.4 5.5200001e-12 6.5440001e-13 6.5440001e-13 16.3 20.6
+126.0 3.8080001e-12 5.6160001e-13 5.6160001e-13 25.9 32.6
+200.0 9.6000001e-13 3.9040001e-13 3.296e-13 41.0 51.7
+316.0 3.7120001e-13 2.992e-13 2.384e-13 65.0 81.9
+501.0 1.936e-13 3.5520001e-13 1.2416e-13 103.0 130.0
